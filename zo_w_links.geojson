@@ -1,0 +1,372 @@
+{
+    "type": "FeatureCollection",
+    "name": "zo_w_links",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.17",
+                "Okres": "Děčín",
+                "Name": "Chlum - rozhledna (Kolmen)",
+                "Typ": "Nespecifikováno",
+                "X": 14.22926,
+                "Y": 50.75727,
+                "Zdroj": "mapy.cz",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=217962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22926,
+                    50.75727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.18",
+                "Okres": "Děčín",
+                "Name": "Chmelnice - lázně (Hopfengarten - Bad)",
+                "Typ": "Jiný",
+                "X": 14.1675,
+                "Y": 50.75278,
+                "Zdroj": "z mapy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=121472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1675,
+                    50.75278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.24",
+                "Okres": "Děčín",
+                "Name": "Čokoládovna Hartwig & Vogel",
+                "Typ": "Továrna",
+                "X": 14.19722,
+                "Y": 50.75972,
+                "Zdroj": null,
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=318067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19722,
+                    50.75972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.26",
+                "Okres": "Děčín",
+                "Name": "Děčín-Podmokly Řetězový most (Tetschen-Bodenbach Kettenbrücke)",
+                "Typ": "Obec",
+                "X": 14.2078,
+                "Y": 50.78119,
+                "Zdroj": null,
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=247542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2078,
+                    50.78119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.27",
+                "Okres": "Děčín",
+                "Name": "Děčínská žehlička (Bodenbach)",
+                "Typ": "Jiný",
+                "X": 14.18279,
+                "Y": 50.77923,
+                "Zdroj": "součadnice byly odvozeny z mapy.",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=282842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18279,
+                    50.77923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.29",
+                "Okres": "Děčín",
+                "Name": "Dolní Žleb - část obce (Nieder Grund an der Elbe)",
+                "Typ": "Obec",
+                "X": 14.21072,
+                "Y": 50.84378,
+                "Zdroj": "určeno podle mapy na serveru Centrum.cz - jedná se o část obce směrem k hranici",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=60257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21072,
+                    50.84378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.36",
+                "Okres": "Děčín",
+                "Name": "Gutschengel",
+                "Typ": "Osada",
+                "X": 14.21544,
+                "Y": 50.74711,
+                "Zdroj": "GPS-st.p.č.866(původně 52)/čp.35",
+                "picture": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21544,
+                    50.74711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.46",
+                "Okres": "Děčín",
+                "Name": "hřbitov Weinbrunn (Friedhof Weinbrunn)",
+                "Typ": "Městská část",
+                "X": 14.22071,
+                "Y": 50.77928,
+                "Zdroj": "mapy.cz",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=122337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22071,
+                    50.77928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.55",
+                "Okres": "Děčín",
+                "Name": "Jedlová (Tannbusch)",
+                "Typ": "Hotel, hostinec, chata",
+                "X": 14.2455,
+                "Y": 50.73917,
+                "Zdroj": "odečteno z mapy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=175182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2455,
+                    50.73917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.67",
+                "Okres": "Děčín",
+                "Name": "Králův mlýn (Königsmühle)",
+                "Typ": "Samota",
+                "X": 14.15139,
+                "Y": 50.83639,
+                "Zdroj": "součadnice byly odvozeny z mapy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=55792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15139,
+                    50.83639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.77",
+                "Okres": "Děčín",
+                "Name": "Lázně svatého Josefa (St.Josefs bad)",
+                "Typ": "Jiný",
+                "X": 14.21417,
+                "Y": 50.78747,
+                "Zdroj": "dle serveru Mapy.cz",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=63937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21417,
+                    50.78747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.97",
+                "Okres": "Děčín",
+                "Name": "Nádraží  Děčín - východ (Tetschen Nordwestbahnhof)",
+                "Typ": "Nádraží",
+                "X": 14.22371,
+                "Y": 50.77532,
+                "Zdroj": "odvozeno z mapy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=206582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22371,
+                    50.77532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.98",
+                "Okres": "Děčín",
+                "Name": "Netterskope",
+                "Typ": "Samota",
+                "X": 14.21702,
+                "Y": 50.72572,
+                "Zdroj": "odhadnuto z mapy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=129417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21702,
+                    50.72572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.116",
+                "Okres": "Děčín",
+                "Name": "Prostřední Žleb - hřbitov (Mittel-Grund - Friedhof)",
+                "Typ": "Jiný",
+                "X": 14.22583,
+                "Y": 50.80528,
+                "Zdroj": null,
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=39457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22583,
+                    50.80528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.117",
+                "Okres": "Děčín",
+                "Name": "Ptačí (Vogelgesang)",
+                "Typ": "Samota",
+                "X": 14.2275,
+                "Y": 50.71361,
+                "Zdroj": null,
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=51597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2275,
+                    50.71361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.144",
+                "Okres": "Děčín",
+                "Name": "Stoliční hora (Quaderberg)",
+                "Typ": "Hotel, hostinec, chata",
+                "X": 14.22806,
+                "Y": 50.78528,
+                "Zdroj": "podle GPS ze serveru Seznam.cz",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=61477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22806,
+                    50.78528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.162",
+                "Okres": "Děčín",
+                "Name": "Velký Chlum - hostinec a hotel (Kolmener Kippe - hotel und restauration)",
+                "Typ": "Hotel, hostinec, chata",
+                "X": 14.22833,
+                "Y": 50.74667,
+                "Zdroj": "dle mapy.cz",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=63847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22833,
+                    50.74667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "zo_decin_32633.176",
+                "Okres": "Děčín",
+                "Name": "Zámecký park Děčín - Körnerův pavilon",
+                "Typ": "Jiný",
+                "X": 14.20839,
+                "Y": 50.77935,
+                "Zdroj": "pojuze odhad polohy",
+                "picture": "http://www.zanikleobce.cz/detail_img.php?i=317467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20839,
+                    50.77935
+                ]
+            }
+        }
+    ]
+}
